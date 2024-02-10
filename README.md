@@ -1,13 +1,10 @@
 # ModeratorProgram-TestFramework
-
 The Moderator Program, `moderator.py`, is a Python-based tool for automating the moderation of online forums. Accompanied by a comprehensive Testing Suite (`test.py` and `test_functions.py`), this suite rigorously evaluates the program's capabilities, ensuring its effectiveness and reliability.
 
-## Project Objectives
+### Discovering Solutions
 This project was developed to address several challenges in online community management:
-
-- **Maintaining Discussion Quality:** Automates the moderation process to keep discussions relevant and respectful, enhancing the overall value of the community.
-- **Efficiency in Moderation:** Provides a consistent and efficient moderation solution that operates continuously, reducing the need for manual intervention.
-- **Scalability of Community Management:** Offers a scalable moderation solution capable of handling growing content volumes without increased resources.
+- **Maintaining Discussion Quality:** Automates the moderation process to keep discussions relevant and respectful.
+- **Efficiency and Scalability of Community Management:** Offers both efficient and scalable moderation solution capable of handling growing content volumes without increased resources.
 - **Error Reduction:** Ensures reliability and accuracy in moderation through a rigorous testing suite, minimizing the likelihood of moderation errors.
 - **Enhanced User Experience:** Contributes to a safer and more engaging environment for community members, encouraging participation and satisfaction.
 
