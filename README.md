@@ -44,7 +44,7 @@ Ongoing development will focus on expanding content moderation techniques and en
 
 ## Examples
 Here are a few more projects from my portfolio:
-- [Abalone Age Prediction Conservation Model](https://github.com/christy511/AbaloneAgePrediction-ConservationModels):
-A model to predict the age of abalone through machine learning.
-- [Customised Fitness Regimen](https://github.com/christy511/Customised-Fitness-Regimen)
+- [Marine Predictive Modelling](https://github.com/christy511/Marine-Predictive-Modelling)
+A model to predict the age of abalone through supervised machine learning.
+- [Personalised Fitness Analytics Program](https://github.com/christy511/Personalised-Fitness-Analytics-Program)
 Adaptive workout recommendation engine using conditional logic and user data.
